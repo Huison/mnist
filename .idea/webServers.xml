@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4cea6015-8112-483e-b406-3eab2b85e3ed" name="19">
+        <fileTransfer rootFolder="/home/huison/ai/mnist" accessType="SFTP" host="192.168.1.19" port="22" sshConfigId="d5758cc3-4de4-4af1-bfd2-bb3bb0439b2b" sshConfig="root@192.168.1.19:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
